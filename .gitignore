@@ -21,3 +21,7 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+/.phpstan-cache
+/.scribe
+/public/vendor/scribe
+/resources/views/scribe
